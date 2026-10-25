@@ -1,0 +1,51 @@
+Product_ID,Product,Category,Warehouse,Supplier,Unit_Cost_INR,Current_Stock,Reorder_Level,Daily_Demand,Lead_Time_Days,Days_of_Stock,Inventory_Value_INR,Reorder_Status
+P001,Laptop,Electronics,Chennai,Supplier B,65000,253,68,4.72,5,53.6,16445000,Sufficient Stock
+P001,Laptop,Electronics,Bengaluru,Supplier A,65000,261,59,4.92,2,53.0,16965000,Sufficient Stock
+P001,Laptop,Electronics,Mumbai,Supplier D,65000,131,63,3.13,8,41.9,8515000,Sufficient Stock
+P001,Laptop,Electronics,Delhi,Supplier C,65000,85,31,3.43,7,24.8,5525000,Sufficient Stock
+P001,Laptop,Electronics,Hyderabad,Supplier E,65000,159,45,7.97,6,19.9,10335000,Sufficient Stock
+P002,Mouse,Electronics,Chennai,Supplier D,800,36,70,2.8,15,12.9,28800,Reorder Required
+P002,Mouse,Electronics,Bengaluru,Supplier B,800,20,65,7.64,4,2.6,16000,Reorder Required
+P002,Mouse,Electronics,Mumbai,Supplier A,800,179,55,5.6,13,32.0,143200,Sufficient Stock
+P002,Mouse,Electronics,Delhi,Supplier E,800,200,63,7.72,15,25.9,160000,Sufficient Stock
+P002,Mouse,Electronics,Hyderabad,Supplier B,800,121,56,2.68,8,45.1,96800,Sufficient Stock
+P003,Keyboard,Electronics,Chennai,Supplier E,1800,164,68,3.3,4,49.7,295200,Sufficient Stock
+P003,Keyboard,Electronics,Bengaluru,Supplier E,1800,110,71,1.97,12,55.8,198000,Sufficient Stock
+P003,Keyboard,Electronics,Mumbai,Supplier E,1800,108,38,3.16,4,34.2,194400,Sufficient Stock
+P003,Keyboard,Electronics,Delhi,Supplier E,1800,225,79,2.02,4,111.4,405000,Sufficient Stock
+P003,Keyboard,Electronics,Hyderabad,Supplier A,1800,167,34,4.9,4,34.1,300600,Sufficient Stock
+P004,Office Chair,Furniture,Chennai,Supplier C,7500,167,39,6.09,8,27.4,1252500,Sufficient Stock
+P004,Office Chair,Furniture,Bengaluru,Supplier C,7500,215,49,4.1,4,52.4,1612500,Sufficient Stock
+P004,Office Chair,Furniture,Mumbai,Supplier A,7500,101,36,1.92,14,52.6,757500,Sufficient Stock
+P004,Office Chair,Furniture,Delhi,Supplier B,7500,141,68,4.97,11,28.4,1057500,Sufficient Stock
+P004,Office Chair,Furniture,Hyderabad,Supplier C,7500,123,44,5.81,3,21.2,922500,Sufficient Stock
+P005,Desk,Furniture,Chennai,Supplier E,12000,249,38,4.52,9,55.1,2988000,Sufficient Stock
+P005,Desk,Furniture,Bengaluru,Supplier D,12000,196,41,6.96,9,28.2,2352000,Sufficient Stock
+P005,Desk,Furniture,Mumbai,Supplier A,12000,75,40,2.35,8,31.9,900000,Sufficient Stock
+P005,Desk,Furniture,Delhi,Supplier B,12000,12,47,7.65,13,1.6,144000,Reorder Required
+P005,Desk,Furniture,Hyderabad,Supplier B,12000,108,78,2.43,9,44.4,1296000,Sufficient Stock
+P006,Notebook,Stationery,Chennai,Supplier D,80,255,74,3.27,5,78.0,20400,Sufficient Stock
+P006,Notebook,Stationery,Bengaluru,Supplier E,80,223,55,6.43,13,34.7,17840,Sufficient Stock
+P006,Notebook,Stationery,Mumbai,Supplier E,80,199,76,3.19,13,62.4,15920,Sufficient Stock
+P006,Notebook,Stationery,Delhi,Supplier A,80,297,68,4.75,10,62.5,23760,Sufficient Stock
+P006,Notebook,Stationery,Hyderabad,Supplier A,80,60,58,4.2,5,14.3,4800,Sufficient Stock
+P007,Printer,Electronics,Chennai,Supplier A,15000,270,64,3.77,10,71.6,4050000,Sufficient Stock
+P007,Printer,Electronics,Bengaluru,Supplier A,15000,203,63,6.36,5,31.9,3045000,Sufficient Stock
+P007,Printer,Electronics,Mumbai,Supplier C,15000,154,58,3.79,14,40.6,2310000,Sufficient Stock
+P007,Printer,Electronics,Delhi,Supplier C,15000,151,59,2.17,11,69.6,2265000,Sufficient Stock
+P007,Printer,Electronics,Hyderabad,Supplier B,15000,32,74,4.62,9,6.9,480000,Reorder Required
+P008,Monitor,Electronics,Chennai,Supplier A,14000,236,35,6.06,4,38.9,3304000,Sufficient Stock
+P008,Monitor,Electronics,Bengaluru,Supplier C,14000,284,38,3.75,9,75.7,3976000,Sufficient Stock
+P008,Monitor,Electronics,Mumbai,Supplier B,14000,17,41,4.18,9,4.1,238000,Reorder Required
+P008,Monitor,Electronics,Delhi,Supplier B,14000,51,46,3.27,13,15.6,714000,Sufficient Stock
+P008,Monitor,Electronics,Hyderabad,Supplier D,14000,68,35,1.8,12,37.8,952000,Sufficient Stock
+P009,Pen Pack,Stationery,Chennai,Supplier D,150,190,35,4.67,13,40.7,28500,Sufficient Stock
+P009,Pen Pack,Stationery,Bengaluru,Supplier D,150,266,69,7.65,10,34.8,39900,Sufficient Stock
+P009,Pen Pack,Stationery,Mumbai,Supplier C,150,199,32,6.38,11,31.2,29850,Sufficient Stock
+P009,Pen Pack,Stationery,Delhi,Supplier B,150,81,40,7.08,14,11.4,12150,Sufficient Stock
+P009,Pen Pack,Stationery,Hyderabad,Supplier D,150,31,56,3.16,6,9.8,4650,Reorder Required
+P010,Storage Rack,Furniture,Chennai,Supplier B,5000,97,37,7.29,2,13.3,485000,Sufficient Stock
+P010,Storage Rack,Furniture,Bengaluru,Supplier D,5000,134,30,4.21,10,31.8,670000,Sufficient Stock
+P010,Storage Rack,Furniture,Mumbai,Supplier B,5000,7,68,7.18,5,1.0,35000,Reorder Required
+P010,Storage Rack,Furniture,Delhi,Supplier A,5000,248,59,3.87,11,64.1,1240000,Sufficient Stock
+P010,Storage Rack,Furniture,Hyderabad,Supplier C,5000,8,45,7.18,11,1.1,40000,Reorder Required
